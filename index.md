@@ -17,7 +17,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 <iframe src="./bokeh/map.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="500"
+    height="800"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
