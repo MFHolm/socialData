@@ -1,6 +1,6 @@
 ---
-layout: default
 title: How did Countries Respond to the Covid-19 Outbreak?
+layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
