@@ -68,13 +68,11 @@ The graph below shows the death count for a number of selected countries over ti
     frameborder="0">
 </iframe>
 
-It is interesting to note that for countries such as Spain and US, if you zoom in on the markers close to the foot of the graph, you can tell that there alreddy was some deaths before most of the countermeasures started to be enforced.
-Compare this to Germany, and there could be an indication that when the first deaths starts to appear, it is too late to start implimenting countermeasures.
-In other words, countermeasures should be implimented way more in advanced to limit the end death count.
+It is interesting to note that for countries such as Spain and US, if you zoom in on the markers close to the foot of the graph, you can tell that there already was some deaths before most of the countermeasures started to be enforced. Compare this to Germany, and there could be an indication that when the first deaths starts to appear, it is too late to start implementing countermeasures. In other words, countermeasures should be implemented way more in advanced to limit the end death count.
 
-Another thing that can be seen is, if you only look on Norway, Sweeden and Denmark. All three of these countries started countermeasures very early, but the key difference is that Sweedens markers are generally lighter. This is becourse Sweeden chose to impliment a lot lighter restrictions than Norway and Denmark did. The current number of deaths could indicate that it was an unwise move of Sweeden to not be more strickt with their countermeasures. 
+Another thing that can be seen is, if you only look on Norway, Sweden and Denmark. All three of these countries started countermeasures very early, but the key difference is that Sweden's markers are generally lighter. This is because Sweden chose to implement a lot lighter restrictions than Norway and Denmark did. The current number of deaths could indicate that it was an unwise move of Sweden to not be more strict with their countermeasures.
 
-This gives us an indication that countermeasures has to be both strickt and early for them to work, and the difference becomes very noticeable.
+This gives us an indication that countermeasures has to be both strict and early for them to work, and the difference becomes very noticeable.
 
 ### World Map showing death count and countermeasures
 
