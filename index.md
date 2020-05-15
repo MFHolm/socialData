@@ -63,7 +63,7 @@ The graph below shows the death count for a number of selected countries over ti
 <iframe src="./bokeh/graph.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="600"
+    height="550"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -82,7 +82,7 @@ The visualisation below is an interactive visualisation that shows how the death
 <iframe src="./bokeh/map.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="1200"
+    height="1000"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
