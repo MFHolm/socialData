@@ -54,9 +54,10 @@ There is information on for instance when schools closed down, whether people ar
 ![first countermeasures](https://github.com/MFHolm/socialData/blob/gh-pages/fig/first_countermeasures.png?raw=true)
 
 
-It can be seen that the first official countermeasures against the virus were already initiated the 1'st of January 2020. The first countermeasures are mainly restrictions on international travels from high risk areas i.e. the Hubei province in China at that time. Around the 1'st of February the majority of countries have initiated the first countermeasures. 
+It can be seen that the first official countermeasures against the virus were already initiated the 1'st of January 2020 (you might have to zoom in on the graph). The first countermeasures are mainly restrictions on international travels from high risk areas i.e. the Hubei province in China at that time. Around the 1'st of February the majority of countries have initiated the first countermeasures. 
 
-The graph below shows the death count for a number of selected countries over time and also shows markers for when different countermeasures were initiated. The More dark the marker is, the more severe countermeasures have been enforced.
+
+The graph below shows the death count for a number of selected countries over time and also shows markers for when different countermeasures were initiated. The darker the marker is, the more severe countermeasures have been enforced.
 
 <iframe src="./bokeh/graph.html"
     sandbox="allow-same-origin allow-scripts"
@@ -75,6 +76,8 @@ Another thing that can be seen is, if you only look on Norway, Sweeden and Denma
 
 This gives us an indication that countermeasures has to be both strickt and early for them to work, and the difference becomes very noticeable.
 
+### World Map showing death count and countermeasures
+
 The visualisation below is an interactive visualisation that shows how the death count changed over time and at the same time showing the countermeasures for each country. 
 
 <iframe src="./bokeh/map.html"
@@ -86,6 +89,9 @@ The visualisation below is an interactive visualisation that shows how the death
     frameborder="0">
 </iframe>
 
+By pressing the play button you can see the development over time. It is interesting to see how nearly the whole world closed down during the month of March and also to see how it slowly opens up again at the end of April and start of May. 
+
+The data for the countermeasures is not totally complete, which is why you see a lot of gray countries, especially for the latest dates. This would be even more interesting to see when the pandemic is over and all the data is hopefully collected. 
 
 
 ## Correlation between countermeasures and death count
