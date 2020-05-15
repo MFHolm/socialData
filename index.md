@@ -61,6 +61,24 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
     frameborder="0">
 </iframe>
 
+<iframe src="./bokeh/graph.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="1200"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+<iframe src="./bokeh/scatter.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="1200"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
 ## Header 2
 
 > This is a blockquote following a header.
