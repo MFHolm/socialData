@@ -11,10 +11,24 @@ The new corona virus first emerged in China in December 2019 and has since sprea
 
 The plot shows that the death count was quite low and stable until around the 20'th of March when it took of and has grown steadily since. 
 
-There is a huge difference in how badly different countries have been affected by the virus. 
+There is a huge difference in how badly different countries have been affected by the virus. Some countries have seen a huge death count and the hospitals have been and are still under a lot of pressure while other countries have been almost unaffected. 
+
+The graph below number of confirmed Covid-19 deaths by country for the 30 countries with the highest number of deaths. 
 
 ![dead by country](https://github.com/MFHolm/socialData/blob/gh-pages/fig/death_by_country.png?raw=true)
 
+There are a few countries that dominate the graph namely: US, UK, Italy, France and Spain. These countries all have a death count of over 20,000 and the US has the highest death count of over 80,0000. 
+
+However it is worth to note that the US has a much higher population than the other countries mentioned. The graph below shows the death count per million and it is quite a different picture. 
+
+
+
+![dead by country](https://github.com/MFHolm/socialData/blob/gh-pages/fig/dead_per_mill_by_country.png?raw=true)
+
+
+
+
+# Explainer Notebook
 [Link to explainer notebook](https://nbviewer.jupyter.org/github/MFHolm/socialData/blob/master/Explainer_Notebook.ipynb)
 
 
