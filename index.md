@@ -54,9 +54,10 @@ There is information on for instance when schools closed down, whether people ar
 ![first countermeasures](https://github.com/MFHolm/socialData/blob/gh-pages/fig/first_countermeasures.png?raw=true)
 
 
-It can be seen that the first official countermeasures against the virus were already initiated the 1'st of January 2020. The first countermeasures are mainly restrictions on international travels from high risk areas i.e. the Hubei province in China at that time. Around the 1'st of February the majority of countries have initiated the first countermeasures. 
+It can be seen that the first official countermeasures against the virus were already initiated the 1'st of January 2020 (you might have to zoom in on the graph). The first countermeasures are mainly restrictions on international travels from high risk areas i.e. the Hubei province in China at that time. Around the 1'st of February the majority of countries have initiated the first countermeasures. 
 
-The graph below shows the death count for a number of selected countries over time and also shows markers for when different countermeasures were initiated. The More dark the marker is, the more severe countermeasures have been enforced.
+
+The graph below shows the death count for a number of selected countries over time and also shows markers for when different countermeasures were initiated. The darker the marker is, the more severe countermeasures have been enforced.
 
 <iframe src="./bokeh/graph.html"
     sandbox="allow-same-origin allow-scripts"
@@ -67,13 +68,13 @@ The graph below shows the death count for a number of selected countries over ti
     frameborder="0">
 </iframe>
 
-It is interesting to note that for countries such as Spain and US, if you zoom in on the markers close to the foot of the graph, you can tell that there alreddy was some deaths before most of the countermeasures started to be enforced.
-Compare this to Germany, and there could be an indication that when the first deaths starts to appear, it is too late to start implimenting countermeasures.
-In other words, countermeasures should be implimented way more in advanced to limit the end death count.
+It is interesting to note that for countries such as Spain and US, if you zoom in on the markers close to the foot of the graph, you can tell that there already was some deaths before most of the countermeasures started to be enforced. Compare this to Germany, and there could be an indication that when the first deaths starts to appear, it is too late to start implementing countermeasures. In other words, countermeasures should be implemented way more in advanced to limit the end death count.
 
-Another thing that can be seen is, if you only look on Norway, Sweeden and Denmark. All three of these countries started countermeasures very early, but the key difference is that Sweedens markers are generally lighter. This is becourse Sweeden chose to impliment a lot lighter restrictions than Norway and Denmark did. The current number of deaths could indicate that it was an unwise move of Sweeden to not be more strickt with their countermeasures. 
+Another thing that can be seen is, if you only look on Norway, Sweden and Denmark. All three of these countries started countermeasures very early, but the key difference is that Sweden's markers are generally lighter. This is because Sweden chose to implement a lot lighter restrictions than Norway and Denmark did. The current number of deaths could indicate that it was an unwise move of Sweden to not be more strict with their countermeasures.
 
-This gives us an indication that countermeasures has to be both strickt and early for them to work, and the difference becomes very noticeable.
+This gives us an indication that countermeasures has to be both strict and early for them to work, and the difference becomes very noticeable.
+
+### World Map showing death count and countermeasures
 
 The visualisation below is an interactive visualisation that shows how the death count changed over time and at the same time showing the countermeasures for each country. 
 
@@ -86,6 +87,9 @@ The visualisation below is an interactive visualisation that shows how the death
     frameborder="0">
 </iframe>
 
+By pressing the play button you can see the development over time. It is interesting to see how nearly the whole world closed down during the month of March and also to see how it slowly opens up again at the end of April and start of May. 
+
+The data for the countermeasures is not totally complete, which is why you see a lot of gray countries, especially for the latest dates. This would be even more interesting to see when the pandemic is over and all the data is hopefully collected. 
 
 
 ## Correlation between countermeasures and death count
