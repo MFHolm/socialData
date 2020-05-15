@@ -5,6 +5,20 @@ layout: default
 
 # How did Countries Respond to the Covid-19 Outbreak?
 
+The new corona virus first emerged in China in December 2019 and has since spread across the world [source](https://www.sst.dk/da/Viden/Smitsomme-sygdomme/Smitsomme-sygdomme-A-AA/Coronavirus/Spoergsmaal-og-svar/Questions-and-answers)(accessed May 15 2020). Since then more than 300,000 people have died with Covid-19 worldwide. The image below shows the death count over time 
+
+![total dead](https://github.com/MFHolm/socialData/blob/gh-pages/fig/total_dead.png)
+
+The plot shows that the death count was quite low and stable until around the 20'th of March when it took of and has grown steadily since. 
+
+There is a huge difference in how badly different countries have been affected by the virus. 
+
+
+[Link to explainer notebook](https://nbviewer.jupyter.org/github/MFHolm/socialData/blob/master/Explainer_Notebook.ipynb)
+
+
+
+
 
 
 
