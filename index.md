@@ -53,7 +53,8 @@ There is information on for instance when schools closed down, whether people ar
 
 ![first countermeasures](https://github.com/MFHolm/socialData/blob/gh-pages/fig/first_countermeasures.png?raw=true)
 
-<img src="./fig/first_countermeasures.png" alt="drawing" width="800px"/>
+Test
+<img src="./fig/first_countermeasures.png" alt="drawing" width="800"/>
 
 It can be seen that the first official countermeasures against the virus were already initiated the 1'st of January 2020. The first countermeasures are mainly restrictions on international travels from high risk areas i.e. the Hubei province in China at that time. Around the 1'st of February the majority of countries have initiated the first countermeasures. 
 
