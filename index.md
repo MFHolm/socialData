@@ -3,6 +3,14 @@ title: How did Countries Respond to the Covid-19 Outbreak?
 layout: default
 ---
 
+# How did Countries Respond to the Covid-19 Outbreak?
+
+
+
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
