@@ -11,18 +11,16 @@ The new corona virus first emerged in China in December 2019 and has since sprea
 
 The plot shows that the death count was quite low and stable until around the 20'th of March when it took of and has grown steadily since. 
 
-There is a huge difference in how badly different countries have been affected by the virus. Some countries 
+There is a huge difference in how badly different countries have been affected by the virus. 
 
 ![dead by country](https://github.com/MFHolm/socialData/blob/gh-pages/fig/death_by_country.png?raw=true)
-
-<img src="fig/death_by_country.png" alt="hi" class="inline"/>
 
 [Link to explainer notebook](https://nbviewer.jupyter.org/github/MFHolm/socialData/blob/master/Explainer_Notebook.ipynb)
 
 
 
 
-
+# Remove everything below this when finished
 
 
 
