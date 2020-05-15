@@ -97,7 +97,7 @@ The visualisation below shows corelations between different countermeasures and 
 <iframe src="./bokeh/scatter.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="1200"
+    height="1100"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
