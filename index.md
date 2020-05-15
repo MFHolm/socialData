@@ -5,7 +5,7 @@ layout: default
 
 # How did Countries Respond to the Covid-19 Outbreak?
 
-The new corona virus first emerged in China in December 2019 and has since spread across the world [source](https://www.sst.dk/da/Viden/Smitsomme-sygdomme/Smitsomme-sygdomme-A-AA/Coronavirus/Spoergsmaal-og-svar/Questions-and-answers)(accessed May 15 2020). Since then more than 300,000 people have died with Covid-19 worldwide. The image below shows the death count over time 
+The new corona virus first emerged in the Hubei province in China in December 2019 and has since spread across the world [source](https://www.sst.dk/da/Viden/Smitsomme-sygdomme/Smitsomme-sygdomme-A-AA/Coronavirus/Spoergsmaal-og-svar/Questions-and-answers)(accessed May 15 2020). Since then more than 300,000 people have died with Covid-19 worldwide. The image below shows the death count over time 
 
 ![total dead](https://github.com/MFHolm/socialData/blob/gh-pages/fig/total_dead.png?raw=true)
 
@@ -52,6 +52,8 @@ There is information on for instance when schools closed down, whether people ar
 
 
 ![first countermeasures](https://github.com/MFHolm/socialData/blob/gh-pages/fig/first_countermeasures.png?raw=true)
+
+It can be seen that the first official countermeasures against the virus were already initiated the 1'st of January 2020. The first countermeasures are mainly restrictions on international travels from high risk areas i.e. the Hubei province in China at that time. Around the 1'st of February the majority of countries have initiated the first countermeasures. 
 
 
 
