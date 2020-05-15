@@ -19,7 +19,7 @@ The outbreak started in China but Europe and the US are now considered epicentre
 <iframe src="./fig/folium_map.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="1200"
+    height="400"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -48,6 +48,7 @@ We are interested in invistigating how countries responded to the virus outbreak
 
 Oxford University has created a [*Government Response Tracker*](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker) and have created a rich dataset documenting the countermeasures of over 100 countries. 
 
+There are
 
 # Explainer Notebook
 
