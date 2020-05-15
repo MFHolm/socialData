@@ -73,7 +73,7 @@ In other words, countermeasures should be implimented way more in advanced to li
 
 Another thing that can be seen is, if you only look on Norway, Sweeden and Denmark. All three of these countries started countermeasures very early, but the key difference is that Sweedens markers are generally lighter. This is becourse Sweeden chose to impliment a lot lighter restrictions than Norway and Denmark did. The current number of deaths could indicate that it was an unwise move of Sweeden to not be more strickt with their countermeasures. 
 
-This gives us an indication that countermeasures has to be strickt and early for them to work, and the difference becomes very noticeable.
+This gives us an indication that countermeasures has to be both strickt and early for them to work, and the difference becomes very noticeable.
 
 The visualisation below is an interactive visualisation that shows how the death count changed over time and at the same time showing the countermeasures for each country. 
 
