@@ -13,7 +13,22 @@ The plot shows that the death count was quite low and stable until around the 20
 
 There is a huge difference in how badly different countries have been affected by the virus. Some countries have seen a huge death count and the hospitals have been and are still under a lot of pressure while other countries have been almost unaffected. 
 
-The graph below number of confirmed Covid-19 deaths by country for the 30 countries with the highest number of deaths. 
+The outbreak started in China but Europe and the US are now considered epicentres for the virus. The map below shows the geographical distribution of the death count around the world. 
+
+
+<iframe src="./fig/folium_map.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="1200"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+It is evident that Europe and the US are heavily affected. Now we will take a closer look at the countries with the highest death count. 
+
+
+The graph below shows number of confirmed Covid-19 deaths by country for the 30 countries with the highest number of deaths. 
 
 ![dead by country](https://github.com/MFHolm/socialData/blob/gh-pages/fig/death_by_country.png?raw=true)
 
