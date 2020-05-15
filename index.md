@@ -42,12 +42,18 @@ However it is worth to note that the US has a much higher population than the ot
 
 The plot shows that US has now moved all the way back to having the 8'th highest death count per million. When comparing countries it might be more relevant to use dead per million than total death count. 
 
+## Government Responses to the Outbreak
 
+We are interested in invistigating how countries responded to the virus outbreak and whether any correlation can be seen between how and when the countries responded and the later death count of the country. 
+
+Oxford University has created a [*Government Response Tracker*](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker) and have created a rich dataset documenting the countermeasures of over 100 countries. 
 
 
 # Explainer Notebook
+
 [Link to explainer notebook](https://nbviewer.jupyter.org/github/MFHolm/socialData/blob/master/Explainer_Notebook.ipynb?frush=true)
 
+In case the link is not working correctly [this](https://github.com/MFHolm/socialData/blob/master/Explainer_Notebook.ipynb) is the direct link to the notebook on GitHub 
 
 
 
