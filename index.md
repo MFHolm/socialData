@@ -25,11 +25,13 @@ However it is worth to note that the US has a much higher population than the ot
 
 ![dead by country](https://github.com/MFHolm/socialData/blob/gh-pages/fig/dead_per_mill_by_country.png?raw=true)
 
+The plot shows that US has now moved all the way back to having the 8'th highest death count per million. When comparing countries it might be more relevant to use dead per million than total death count. 
+
 
 
 
 # Explainer Notebook
-[Link to explainer notebook](https://nbviewer.jupyter.org/github/MFHolm/socialData/blob/master/Explainer_Notebook.ipynb)
+[Link to explainer notebook](https://nbviewer.jupyter.org/github/MFHolm/socialData/blob/master/Explainer_Notebook.ipynb?frush=true)
 
 
 
