@@ -57,6 +57,44 @@ There is information on for instance when schools closed down, whether people ar
 
 It can be seen that the first official countermeasures against the virus were already initiated the 1'st of January 2020. The first countermeasures are mainly restrictions on international travels from high risk areas i.e. the Hubei province in China at that time. Around the 1'st of February the majority of countries have initiated the first countermeasures. 
 
+The graph below shows the death count for a number of selected countries over time and also shows markers for when different countermeasures were initiated. 
+
+<iframe src="./bokeh/graph.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="1200"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+It is interesting to note ... TODO 
+
+
+The visualisation below is an interactive visualisation that shows how the death count changed over time and at the same time showing the countermeasures for each country. 
+
+<iframe src="./bokeh/map.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="1200"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+
+
+## Correlation between countermeasures and death count
+
+
+<iframe src="./bokeh/scatter.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="1200"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
 
 
 
@@ -65,6 +103,9 @@ It can be seen that the first official countermeasures against the virus were al
 [Link to explainer notebook](https://nbviewer.jupyter.org/github/MFHolm/socialData/blob/master/Explainer_Notebook.ipynb?frush=true)
 
 In case the link is not working correctly [this](https://github.com/MFHolm/socialData/blob/master/Explainer_Notebook.ipynb) is the direct link to the notebook on GitHub 
+
+
+
 
 
 
@@ -85,33 +126,6 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # h
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-<iframe src="./bokeh/map.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="1200"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
-
-<iframe src="./bokeh/graph.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="1200"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
-
-<iframe src="./bokeh/scatter.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="1200"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
 
 ## Header 2
 
