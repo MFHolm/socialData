@@ -48,7 +48,12 @@ We are interested in invistigating how countries responded to the virus outbreak
 
 Oxford University has created a [*Government Response Tracker*](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker) and have created a rich dataset documenting the countermeasures of over 100 countries. 
 
-There are
+There is information on for instance when schools closed down, whether people are advised to stay at home and whether there are any restrictions on public gatherings. On top of this there is also a stringency index for each country for each date. This value is a summary of the stringency of the restrictions in a country. The figure below shows when countries initiated the first countermeasures. 
+
+
+![first countermeasures](https://github.com/MFHolm/socialData/blob/gh-pages/fig/first_countermeasures.png?raw=true)
+
+
 
 # Explainer Notebook
 
