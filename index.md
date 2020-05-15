@@ -58,7 +58,7 @@ Test 3
 
 It can be seen that the first official countermeasures against the virus were already initiated the 1'st of January 2020. The first countermeasures are mainly restrictions on international travels from high risk areas i.e. the Hubei province in China at that time. Around the 1'st of February the majority of countries have initiated the first countermeasures. 
 
-The graph below shows the death count for a number of selected countries over time and also shows markers for when different countermeasures were initiated. The More dark the marker is, the more counter measures have been enforced.
+The graph below shows the death count for a number of selected countries over time and also shows markers for when different countermeasures were initiated. The More dark the marker is, the more severe countermeasures have been enforced.
 
 <iframe src="./bokeh/graph.html"
     sandbox="allow-same-origin allow-scripts"
