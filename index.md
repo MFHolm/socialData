@@ -58,7 +58,7 @@ Test 3
 
 It can be seen that the first official countermeasures against the virus were already initiated the 1'st of January 2020. The first countermeasures are mainly restrictions on international travels from high risk areas i.e. the Hubei province in China at that time. Around the 1'st of February the majority of countries have initiated the first countermeasures. 
 
-The graph below shows the death count for a number of selected countries over time and also shows markers for when different countermeasures were initiated. 
+The graph below shows the death count for a number of selected countries over time and also shows markers for when different countermeasures were initiated. The More dark the marker is, the more counter measures have been enforced.
 
 <iframe src="./bokeh/graph.html"
     sandbox="allow-same-origin allow-scripts"
@@ -69,8 +69,13 @@ The graph below shows the death count for a number of selected countries over ti
     frameborder="0">
 </iframe>
 
-It is interesting to note ... TODO 
+It is interesting to note that for countries such as Spain and US, if you zoom in on the markers close to the foot of the graph, you can tell that there alreddy was some deaths before most of the countermeasures started to be enforced.
+Compare this to Germany, and there could be an indication that when the first deaths starts to appear, it is too late to start implimenting countermeasures.
+In other words, countermeasures should be implimented way more in advanced to limit the end death count.
 
+Another thing that can be seen is, if you only look on Norway, Sweeden and Denmark. All three of these countries started countermeasures very early, but the key difference is that Sweedens markers are generally lighter. This is becourse Sweeden chose to impliment a lot lighter restrictions than Norway and Denmark did. The current number of deaths could indicate that it was an unwise move of Sweeden to not be more strickt with their countermeasures. 
+
+This gives us an indication that countermeasures has to be strickt and early for them to work, and the difference becomes very noticeable.
 
 The visualisation below is an interactive visualisation that shows how the death count changed over time and at the same time showing the countermeasures for each country. 
 
@@ -87,6 +92,7 @@ The visualisation below is an interactive visualisation that shows how the death
 
 ## Correlation between countermeasures and death count
 
+The visualisation below shows corelations between different countermeasures and death count. The more dark and intence the color, the more deaths pr million population does the country have.
 
 <iframe src="./bokeh/scatter.html"
     sandbox="allow-same-origin allow-scripts"
@@ -96,6 +102,8 @@ The visualisation below is an interactive visualisation that shows how the death
     seamless="seamless"
     frameborder="0">
 </iframe>
+
+The visualisation shows no major correlation between any specific countermeasure and death count. This means that there isn't one countermeasure that is better or worse than the others.
 
 
 
