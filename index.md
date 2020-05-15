@@ -76,7 +76,7 @@ The visualisation below is an interactive visualisation that shows how the death
 <iframe src="./bokeh/map.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="1200"
+    height="600"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
